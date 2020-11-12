@@ -49,12 +49,12 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
-
+// bla bla
     box3.display();
     box4.display();
     pig3.display();
     log3.display();
-
+// git itseems
     box5.display();
     log4.display();
     log5.display();
